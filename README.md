@@ -1,0 +1,4 @@
+BridgePattern
+=============
+
+BridgePattern
